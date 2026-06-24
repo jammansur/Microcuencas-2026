@@ -1,12 +1,12 @@
-name: Bienvenido Señor@ beneficiario: 
+Bienvenido Señor@ beneficiario: 
 
-on: Solicitamos cierta información que será para su beneficio
+Solicitamos cierta información que nos será muy útil para el desarrollo del proyecto:
 
-jobs:
-  greeting:
-    runs-on: Nombre y Apellido(s):
-    permissions:
-      issues: __________________________
+Predio:_________________________
+  Fecha:_________________
+    Nombre y Apellido(s):______________________________
+    Cédula: ______________________
+      Celular: ___________________
       pull-requests: Cédula de Ciudadanía:
     steps:
     - uses: Guardar/first-interaction@v1
